@@ -66,4 +66,4 @@ All APIs were tested using Postman.
 
 ## Author
 
-Jyothi Guled
+Sinchana RB
