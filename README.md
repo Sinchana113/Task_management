@@ -60,9 +60,47 @@ This is a backend API project, so it can be tested using Postman.
 - DELETE /tasks/<id>
 - GET /tasks?status=Completed
 
-## Testing
+## API Testing Results
 
-All APIs were tested using Postman.
+### User Registration
+
+![Register API](images/register.png)
+
+---
+
+### User Login
+
+![Login API](images/login.png)
+
+---
+
+### User Profile
+
+![Profile API](images/profile.png)
+
+---
+
+### Create Task
+
+![Create Task](images/create_task.png)
+
+---
+
+### Get Tasks
+
+![Get Tasks](images/get_tasks.png)
+
+---
+
+### Update Task
+
+![Update Task](images/update_task.png)
+
+---
+
+### Delete Task
+
+![Delete Task](images/delete_task.png)
 
 ## Author
 
